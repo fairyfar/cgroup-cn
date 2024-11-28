@@ -8,7 +8,7 @@
 | 编号 | 标题                                    | 文档类型                                                     |
 | ---- | --------------------------------------- | ------------------------------------------------------------ |
 | 1    | Red Hat Enterprise Linux 7 资源管理指南 | [[PDF]](cgroup-v1/Red_Hat_Enterprise_Linux_7_资源管理指南_中文.pdf) |
-| 2    | Redhat_7_cgroups实例                    | [[PDF]](cgroup-v1/Redhat_7_cgroups实例.pdf)，[[Markdown]](cgroup-v1/Redhat_7_cgroups实例.md) |
+| 2    | Redhat 7 cgroups实例                    | [[PDF]](cgroup-v1/Redhat_7_cgroups实例.pdf)，[[Markdown]](cgroup-v1/Redhat_7_cgroups实例.md) |
 | 3    | CPU weight与nice的区别                  | [[PDF]](cgroup-v1/CPU%20weight与nice的区别.pdf)，[[Markdown]](cgroup-v1/CPU%20weight与nice的区别.md) |
 | 4    | Linux系统修改swappiness方法             | [[PDF]](cgroup-v1/Linux系统修改swappiness方法.pdf)，[[Markdown]](cgroup-v1/Linux系统修改swappiness方法.md) |
 | 5    | cgroup之blkio测试                       | [[PDF]](cgroup之blkio测试.pdf)，[[Markdown]](cgroup-v1/cgroup之blkio测试.md) |
@@ -20,6 +20,8 @@
 | ---- | ------------------------- | ------------------------------------------------------------ |
 | 1    | Linux cgroup v2开发者参考 | [[PDF]](cgroup-v2/Linux%20cgroup%20v2开发者参考.pdf) |
 | 2    | cgroup v2知多少           | [[PDF]](cgroup-v2/cgroup%20v2知多少.pdf)，[[Markdown]](cgroup-v2/cgroup%20v2知多少.md) |
+| 3    | Linux启用cgroup v2        | [[PDF]](cgroup-v2/Linux启用cgroup%20v2.pdf)，[[Markdown]](cgroup-v2/Linux启用cgroup%20v2.md) |
+| 4    | Redhat 8无法使用cgroup v2的CPU控制器    | [[PDF]](cgroup-v2/Redhat%208无法使用cgroup%20v2的CPU控制器.pdf)，[[Markdown]](cgroup-v2/Redhat%208无法使用cgroup%20v2的CPU控制器.md) |
 
 # 三、开源协议
 
