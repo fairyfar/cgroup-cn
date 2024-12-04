@@ -22,7 +22,7 @@
 
 | 编号 | 标题                      | 文档类型                                                     |
 | ---- | ------------------------- | ------------------------------------------------------------ |
-| 1    | Linux cgroup v2开发者参考 | [[PDF]](cgroup-v2/Linux%20cgroup%20v2开发者参考.pdf) |
+| 1    | Linux cgroup v2开发者参考 | [[PDF]](cgroup-v2/Linux%20cgroup%20v2开发者参考.pdf)，[[PPT]](cgroup-v2/Linux%20cgroup%20v2开发者参考.ppt) |
 | 2    | cgroup v2知多少           | [[PDF]](cgroup-v2/cgroup%20v2知多少.pdf)，[[Markdown]](cgroup-v2/cgroup%20v2知多少.md) |
 | 3    | Linux启用cgroup v2        | [[PDF]](cgroup-v2/Linux启用cgroup%20v2.pdf)，[[Markdown]](cgroup-v2/Linux启用cgroup%20v2.md) |
 | 4    | Redhat 8无法使用cgroup v2的CPU控制器    | [[PDF]](cgroup-v2/Redhat%208无法使用cgroup%20v2的CPU控制器.pdf)，[[Markdown]](cgroup-v2/Redhat%208无法使用cgroup%20v2的CPU控制器.md) |
