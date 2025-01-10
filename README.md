@@ -26,6 +26,16 @@
 | 3    | Linux启用cgroup v2        | [[PDF]](cgroup-v2/Linux启用cgroup%20v2.pdf)，[[Markdown]](cgroup-v2/Linux启用cgroup%20v2.md) |
 | 4    | Redhat 8无法使用cgroup v2的CPU控制器    | [[PDF]](cgroup-v2/Redhat%208无法使用cgroup%20v2的CPU控制器.pdf)，[[Markdown]](cgroup-v2/Redhat%208无法使用cgroup%20v2的CPU控制器.md) |
 
+## 2.3 存档文件
+
+| 编号 | 文件名                    | 说明                                                         |
+| ---- | ------------------------- | ------------------------------------------------------------ |
+| 1    | [libcgroup-0.41-21.el7.x86_64.rpm](archive/libcgroup-0.41-21.el7.x86_64.rpm) | Redhat 7.6的libcgroup安装包 |
+| 2    | [libcgroup-tools-0.41-21.el7.x86_64.rpm](archive/libcgroup-tools-0.41-21.el7.x86_64.rpm) | Redhat 7.6的libcgroup-tools安装包 |
+| 3    | [rpmbuild-libcgroup.tar](archive/rpmbuild-libcgroup.tar) | Redhat 8制作libcgroup安装包rpmbuild所需文件 |
+| 4    | [rpmbuild-libcgroup-tools.tar](archive/rpmbuild-libcgroup-tools.tar) | Redhat 8制作libcgroup-tools安装包rpmbuild所需文件  |
+
+
 # 三、开源协议
 
 本项目遵循MIT开源协议。
