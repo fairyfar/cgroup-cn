@@ -16,6 +16,7 @@
 | 7    | cgroup net_cls测试                      | [[PDF]](cgroup-v1/cgroup%20net_cls测试.pdf)，[[Markdown]](cgroup-v1/cgroup%20net_cls测试.md) |
 | 8    | CentOS 8 cgroup blkio的坑               | [[PDF]](cgroup-v1/CentOS%208%20cgroup%20blkio的坑.pdf)，[[Markdown]](cgroup-v1/CentOS%208%20cgroup%20blkio的坑.md) |
 | 9    | Redhat Linux 7使用cgroup限制用户资源    | [[PDF]](cgroup-v1/Redhat%20Linux%207使用cgroup限制用户资源.pdf)，[[Markdown]](cgroup-v1/Redhat%20Linux%207使用cgroup限制用户资源.md) |
+| 10   | Redhat Linux 8使用cgroup限制用户资源    | [[PDF]](cgroup-v1/Redhat%20Linux%208使用cgroup限制用户资源.pdf)，[[Markdown]](cgroup-v1/Redhat%20Linux%208使用cgroup限制用户资源.md) |
 
 ## 2.2 cgroup v2
 
