@@ -478,7 +478,7 @@ ERROR 0002: file 'xxx' contains an invalid rpath 'yyy' in [yyy]
 
 ## 4.2 cgred的工作原理
 
-`libcgroup`通过注册`cgred`系统服务实现`Linux`用户资源管理，`cgred`服务实际上有应用程序`cgrulesengd`实现用户进程关联`cgroup`资源组功能。`cgrulesengd`应用程序的主要源代码对应`libcgroup`的`cgrulesengd.c`文件。
+`libcgroup`通过注册`cgred`系统服务实现`Linux`用户资源管理，`cgred`服务实际上由应用程序`cgrulesengd`实现用户进程关联`cgroup`资源组功能。`cgrulesengd`应用程序的主要源代码对应`libcgroup`的`cgrulesengd.c`文件。
 
 `cgrulesengd`通过`Netlink`机制获得应用程序创建与退出事件，然后根据应用程序所述用户将进程PID写入对应`cgroup`组的`cgroup.procs`或`tasks`接口文件。
 
