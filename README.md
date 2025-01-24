@@ -26,6 +26,7 @@
 | 2    | cgroup v2知多少           | [[PDF]](cgroup-v2/cgroup%20v2知多少.pdf)，[[Markdown]](cgroup-v2/cgroup%20v2知多少.md) |
 | 3    | Linux启用cgroup v2        | [[PDF]](cgroup-v2/Linux启用cgroup%20v2.pdf)，[[Markdown]](cgroup-v2/Linux启用cgroup%20v2.md) |
 | 4    | Redhat 8无法使用cgroup v2的CPU控制器    | [[PDF]](cgroup-v2/Redhat%208无法使用cgroup%20v2的CPU控制器.pdf)，[[Markdown]](cgroup-v2/Redhat%208无法使用cgroup%20v2的CPU控制器.md) |
+| 5    | WSL2启用Ubuntu的cgroup v2 | [[PDF]](cgroup-v2/WSL2启用Ubuntu的cgroup%20v2.pdf)，[[Markdown]](cgroup-v2/WSL2启用Ubuntu的cgroup%20v2.md) |
 
 ## 2.3 存档文件
 
